@@ -1,0 +1,13 @@
+        Sample  Data Headers
+Sample    1.00  0.02   -0.24
+Data      0.02  1.00   -0.85
+Headers  -0.24 -0.85    1.00
+
+n= 8 
+
+
+P
+        Sample Data   Headers
+Sample         0.9625 0.5699 
+Data    0.9625        0.0072 
+Headers 0.5699 0.0072        

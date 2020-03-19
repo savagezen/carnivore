@@ -1,0 +1,20 @@
+     Sample          Data          Headers      
+ Min.   :2000   Min.   :58.00   Min.   : 10.00  
+ 1st Qu.:4952   1st Qu.:61.00   1st Qu.: 94.75  
+ Median :5589   Median :67.00   Median : 98.50  
+ Mean   :5275   Mean   :69.12   Mean   : 87.12  
+ 3rd Qu.:6300   3rd Qu.:71.25   3rd Qu.: 99.25  
+ Max.   :6815   Max.   :94.00   Max.   :102.00  
+        Sample  Data Headers
+Sample    1.00  0.02   -0.24
+Data      0.02  1.00   -0.85
+Headers  -0.24 -0.85    1.00
+
+n= 8 
+
+
+P
+        Sample Data   Headers
+Sample         0.9625 0.5699 
+Data    0.9625        0.0072 
+Headers 0.5699 0.0072        
