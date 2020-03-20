@@ -1,0 +1,13 @@
+         Sleep CaffMg CaffTime
+Sleep     1.00  -0.22    -0.67
+CaffMg   -0.22   1.00     0.63
+CaffTime -0.67   0.63     1.00
+
+n= 15 
+
+
+P
+         Sleep  CaffMg CaffTime
+Sleep           0.4390 0.0068  
+CaffMg   0.4390        0.0123  
+CaffTime 0.0068 0.0123         
