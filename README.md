@@ -6,14 +6,13 @@ A statistical analysis of a carnivore diet.
 
 **Caffeine:**
 
-Looking at the output from R, the significance (p) of the relatinoship between sleep quality and last time of caffeine ingestion was 0.0068 (not significant).
-However, the significance of the relationship between total caffeine (mg) ingested throughout the day and sleep quality was 0.439 (very significant).  The correlation strength (r) between sleep quality and total caffeine was -0.22.  That is, as total caffeine ingestion increase, sleep quality decreased significantly.
+In this sub-test of 15 samples, I looked at how caffeine dosage (total mg / day) and last time of ingestion effected sleep quality (simple 1-5 scale).  One note on the raw data (link below) is that the caffeine / sleep samples were taken on consecutive days.  They do not correspond to the dates and other values on the spreadsheet.  I.E.  the caffeine / sleep samples were taken on 15 consecutive days, but the other values were only being monitored and documented three times per week.
 
-This was pretty intersting because I suspected that the last time of use would have a ver significant impact on sleep quality due to the long half life of caffeine.
-However, the data does not indicate that.  After looking at the raw data, before running any calculations, I suspected that perhaps the dosage mattered in the sense of 600 mg (in the form of back to back energy drinks) versus 6 x 100mg doses throughout the day (one cup of coffee at a time).
-This may still be true, but it is clear that the total dosage (intake during the day) impacts sleep quality greatly.
+At any rate, dosage did not have a significant relationship (p < 0.01) with either sleep quality or time of ingestion.  However, last time of ingestion had a notably significant relationship with sleep quality (p = 0.0068).  The strength of the relationship was also notable (r = -0.67).  This means that the later in the day caffeine was ingested, the more poor sleep quality was.
 
-Follow up could study could look at variance in dosage volume and frequency.
+While the relationship between time of ingestion and dosage was not statistically significant, it was close (p = 0.0123) and the correlation was strong (r = 0.63) suggestion that the later in the day you consume caffeine, the higher your total dosage for the day is (which makes sense).  Follow up analysis could include comparing different dosages at different times (e.g. 600mg all within a one hour window versus over a 6 hour window; and again 6 hours in the am versus, etc...).
+
+> I erroneously confused the two figures in the previous commit.  My apologies.
 
 ---
 
