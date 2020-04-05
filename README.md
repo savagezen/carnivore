@@ -1,6 +1,6 @@
 #### Carnivore Stats
 
-A statistical analysis of a carnivore diet.
+A statistical analysis of a carnivore diet.  See also the [initial 30 day analysis](https://github.com/savagezen/carnivore/blob/master/Review-30-Days.md) featuring a review of biometrics (MAP, RHR, ketones, weight), nutrient desnity, cost analysis, recovery / electrolytes, and O6:O3 ratios.
 
 ---
 
