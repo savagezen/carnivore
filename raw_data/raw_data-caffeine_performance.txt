@@ -1,0 +1,2 @@
+kb-weight	kb-time	kb-load	caff-time	caff-dose	caff-ratio	work%
+30		29.50	1.02	0		0		0		100

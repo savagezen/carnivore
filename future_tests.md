@@ -8,7 +8,20 @@
   * apparently I'm in the genotype Rs5751876-c:  reduced ergogenic effect / reduced sleep quality; article suggests lower dose or increase time before exercise
   * 3mg/kg (~200 mg, 6 mg/kg (~400 mg), 9 mg/kg (~650 mg)
   * run each 3/6/9 dosage each at 30/60/90 min pre-workout
-  * randomize doasge and timing to control for adaptation (getting stronger)
+  * randomize doasge and timing to control for adaptation (getting stronger): 1d10
+  * | Roll | Dose | Time |
+| 1 | 200 mg | 30 min |
+| 2 | 200 mg | 60 min |
+| 3 | 200 mg | 90 min |
+| 4 | 400 mg | 30 min |
+| 5 | 400 mg | 60 min |
+| 6 | 400 mg | 90 min |
+| 7 | 650 mg | 30 min |
+| 8 | 650 mg | 60 min |
+| 9 | 650 mg | 90 min |
+| 10 | 0 mg | 0 min |
+
+
 * Results (correlation and regression)
   * dependent variable = strength output test (timed 500 kb + 75 push press swing @ 20#, for time)
   * control = adaptation (% work days / total days in trial)
@@ -26,6 +39,7 @@
   * RHR may stay lower, longer when cold is followed by exercise
   * track training hours, RHR, soreness, fatigue
   * may take up to 6 - 12 weeks for fulll effect
+  * randomize cold time to control for adaptation: 1d6 minutes
 * Results (correlation and regression)
    * dependent variable = strength output test (above)
    * control_1 = rest (% of rest days / total days in trial)
