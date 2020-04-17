@@ -1,2 +1,2 @@
-Train-Time	Train-Int	Train-Load	Cold-Time	Fatigue	Soreness	RHR
-30		5		150		0		1	3		63
+Train-Time	Train-Int	Train-Load	Cold-Time	Fatigue	Soreness	RHR	Rest%	Zinc	Magnesium	Selenium	Elec-Sum
+30		5		150		0		1	3		63	0

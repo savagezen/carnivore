@@ -35,7 +35,8 @@
 
 ---
 
-**Shout Outs:**
+**Acknowledgments:**
 
-* Death Wish Coffee(link)
-* CarnivoreMD Podcast(link) and other (castbox link to playlist)
+* Statistics were calculated with [R](https://www.r-project.org/) on Linux
+* [Death Wish Coffee](https://www.deathwishcoffee.com/)
+* [Fundamental Health Podcast](https://castbox.fm/channel/Fundamental-Health-with-Paul-Saladino%2C-MD-id2108592?country=us&nojump=1)
