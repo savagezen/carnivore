@@ -30,15 +30,9 @@
   url: future_tests
 -
   name: "Contribute!"
-  subfolderitems:
-    - page: Thing 1
-    - url: /thing1.html
-    - page: Thing 2
-    - url: /thing2.html
-    - page: Thing 3
-    - url: /thing3.html
   icon: "contribute"
   path: tabs
+  url: contribute
 -
   name: "Tags"
   icon: "fas fa-tags"
