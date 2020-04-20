@@ -1,4 +1,4 @@
-60 day carnivore studies (draft)
+﻿60 day carnivore studies (draft)
 
 ---
 
@@ -17,6 +17,50 @@
 * Pork and chicken tend to have a higher Omega-6 to Omega-3 ratio ([r](http://paleozonenutrition.com/2011/05/10/omega-6-and-3-in-nuts-oils-meat-and-fish-tools-to-get-it-right/)) compared to ruminants.  
 * Regarding fish, I previously noted the electrolytes in mackerel, but I more recently became aware of the heavy mineral content (the same concern arises with tuna)([r](https://www.consumerreports.org/cro/magazine/2014/10/can-eating-the-wrong-fish-put-you-at-higher-risk-for-mercury-exposure/index.htm)).  Low mercury fish tend to be lower in fat (compared again to ruminants), which as mentioned above, I am trying to manipulate and increase.
 
+**Pending Outcomes:**
+
+* Performance (correlation and regression):
+    * adaptation (% working days) : strength output
+    * caffeine dose (mg) : strength output
+    * caffeine time (minutes first dose before start of exercise) : strength output
+    * caffeine rate (mg / minute) : strength output
+    * electrolytes (sum Na, Ca, K, Mg) : strength output
+    * sleep : strength output
+    * AWQ : strength output
+    * Vitamin D : strength output
+    * Selenium : strength output
+    * Zinc : strength output
+    * Selenium : strength output
+    * Vitamin D : strength output
+    * ketones : strength output
+    * blood sugar : strength output
+    * fasted time : strength output
+* Recovery (correlation and regression):
+    * Sleep : Blood Sugar
+    * % rest days : AWQ
+    * cold time : AWQ
+    * training load : AWQ
+    * RHR : AWQ
+    * training load : RHR
+    * cold time : RHR
+    * % rest days : RHR
+    * Na : AWQ
+    * Na : RHR
+    * Electrolyte Sum : AWQ
+    * Electrolyte Sum : RHR
+    * IGF-1 (Zinc, Selenium, Magnesium) : AWQ
+    * IGF-1 (Zinc, Selenium, Magnesium) : RHR
+* Misc (correlation and regression):
+    * Blood Sugar : ketones
+    * fasted time : ketones
+    * fasted time : blood sugar
+    * fasted time : ketones
+    * Na : CVL
+    * Electrolyte Sum : CVL
+    * Sodium ratio (Na / P) : CVL
+    * Fat ratio (calories from fat / calories from protein) : blood sugar
+    * fat ratio : ketones
+
 ---
 
 **Caffeine and Performance:**
@@ -29,51 +73,35 @@
   * run each 3/6/9 dosage each at 30/60/90 min pre-workout
   * randomize doasge and timing to control for adaptation (getting stronger).
 
-* Results (correlation and regression)
-  * dependent variable = strength output test (timed 500 kb + 75 push press swing @ 20#, for time)
-  * control = adaptation (% work days / total days in trial)
-  * control : strength output
-  * caffeine dose (mg) : strength output 
-  * caffeine time (minutes first dose and start of exercise) : strength output
-  * caffeine ratio (mg / minute) : strength output
-  * electorlytes (Na, Ca, K, Mg) : strength output
+> Results (correlation and regression):
+>  Dependent variable = strength output test (timed 500 kb + 75 push press swing @ 20#, for time)
 
 ---
 
-**Cold Showers and Recovery:**
+**Recovery - Cold Showers, Adaptation , Sleep, and Testosterone Variables:**
 
-* Tentative Research: ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/), [r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5745760/))
+* Tentative Research - Cold Showers: ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/), [r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5745760/))
   * cold w/in 1 hour:  you'll feel better but perform worse (duh!)
   * cold and cold+active w/in 24 and 48 hours:  less sore, but no significant change in performance
   * RHR may stay lower, longer when cold is followed by exercise
   * track training hours, RHR, soreness, fatigue
   * may take up to 6 - 12 weeks for fulll effect
   * randomize cold time to control for adaptation (0-5)
-* Results (correlation and regression)
-   * dependent variable = strength output test (above)
-   * control_1 = rest (% of rest days / total days in trial)
-   * control_2 = training load (strength output test * percieved difficulty[1-5 scale, 5 high])
-   * time in cold shower : perceived soreness (1-5 scale, 5 high, morning after)
-   * time in cold shower : perceived fatigue (1-5 scale, 5 high, morning after)
-   * time in cold shower : resting heart rate (morning after as a indicator of recovery)
-   * control_1 : perceived soreness
-   * control_1 : perceived fatigue
-   * control_1 : resting heart rate
-   * control_2 : perceived soreness
-   * control_2 : perceived fatigue
-   * control_2 : resting heart rate
-   * sum elctrolytes (Na, Mg, Ca, K) : perceived soreness
-   * sum electrolytes (Na, Mg, Ca, K) : perceived fatigue
-   * sum electrolytes (Na, Mg, Ca, K) : resting heart rate
-   * magnesium : perceived soreness
-   * magnesium : perceived fatigue
-   * magnesium : resting heart rate
-   * zinc : perceived soreness
-   * zinc : perceived fatigue
-   * zinc : resting hear rate
-   * selenium : perceived soreness
-   * selenium : perceived fatigue
-   * selenium : resting heart rate
+
+* Tentative Research - Sleep:
+  * Insomnia increases:  blood glucose, blood pressure, and waist circumference ([r](https://www.ncbi.nlm.nih.gov/pubmed/31404954))
+  * Does blood sugar slow recovery?
+  * increased blood sugar > increased inflammation > IGF-1 + host of other problems (above) ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820068/))
+  * low IGF-1 plus chronic inflammation = major destruction to body (ref. above)
+
+   * Magnesium - "Interestingly, magnesium has been shown to exert, as IGF-1 does, beneficial independent actions on muscle function and could play a role on physical performance in the elderly. This hypothesis is consistent with clinical and epidemiologic data supporting the importance of the magnesium ion as a determinant of muscle performance in young subjects." (ref. above)
+   * Selenium - "There is increasing evidence that selenium could influence skeletal muscle function even if its role in maintaining functional muscle efficiency is still unclear." (ref. above); Selenium is also related to production of thyroid hormone T3.
+   * Zinc - "Zinc is involved in growth, protein and DNA synthesis, neuro-sensory functions, cell-mediated immunity, thyroid function, and bone metabolism"... zinc seems also to be involved in nutritional regulation of IGF-1 bioactivity. In cultured bone cells, some studies suggest that zinc potentiates the action of IGF-1 and increases endogenous IGF-1 synthesis." (ref. above)
+
+* Tentative Research - Testosterone:
+    * Tim Ferris (4HB, p.258):  2 x 10 min cold shower / day; 6,000 - 10,000 IU / day sunlight.
+    * Cold showers won't do anything for testosterone that exercise won't ([r](https://www.healthline.com/health/cold-shower-testosterone#summary)), but may still benefit recovery (pending current results).
+    * Vitamin D may still increase testosterone ([r](https://www.ncbi.nlm.nih.gov/pubmed/21154195)).  You get 10,000 - 20,000 IU / 30 minutes ([r]([https://www.healthline.com/nutrition/vitamin-d-from-sun#time-of-day](https://www.healthline.com/nutrition/vitamin-d-from-sun#time-of-day))).
 
 ---
 
@@ -86,12 +114,7 @@
   * increased ketones can decrease triglycerides and insulin resistance (though positively correlated with glucose) ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7074331/)) while reducing fatigue / overuse of IGF1 ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7059164/)) -- we need that to be fluid and efficiently used to get stronger!
   * I know ketones are good, just not convinced that more is better, whcih is why I'm focusing in glucose / insulin ([r](https://ketodietapp.com/Blog/lchf/the-ketone-craze-who-really-benefits-from-high-ketone-levels),[r](https://www.mayoclinic.org/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631)).  Recommended ranges of ketones are from 0.5 - 3 mmol/L (9 - 54 mg/dL), though ancestrally levels were probably between 0.1 and 1 ([r](https://castbox.fm/episode/How-Broccoli-is-Destroying-Your-Thyroid!-With-Elle-Russ-id2108592-id236477377?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=How%20Broccoli%20is%20Destroying%20Your%20Thyroid!%20With%20Elle%20Russ-CastBox_FM)).  Usually I am in the 5 - 15 mg/dL range (urine).  It's pretty easy to pee on a stick though, so it's worth keeping track of.
   * blood glucose corresponding to the above urine ketones would be 40 - 75 mg/dL (fasted); less than 40 or over 200 being dangerous, but over 75 (for sure over 100), being non-conducive to ketosis ([r](https://www.thebonesandco.com/blog/ketosis-versus-ketoacidosis-dogs)).
-* Results (correlation and regression)
-  * fat ratio (calories from fat / calories from protein) : fasted blood sugar (fasted 9-12 hours)
-  * fat ratio : urine ketones
-  
-
-* Ketones alone may not be good indicator (e.g. less excreted in urine if they're getting used in the blood)([r](https://castbox.fm/episode/Supersoldiers-and-enhanced-cognitive-function-with-ketones!-A-conversation-with-Dominic-D%E2%80%99Agostino%2C-PhD-id2108592-id171881127?country=us))
+   * Ketones alone may not be good indicator (e.g. less excreted in urine if they're getting used in the blood)([r](https://castbox.fm/episode/Supersoldiers-and-enhanced-cognitive-function-with-ketones!-A-conversation-with-Dominic-D%E2%80%99Agostino%2C-PhD-id2108592-id171881127?country=us)).
 
 ---
 
@@ -111,6 +134,11 @@ I have briefly looked at electrolytes overall, but have been curious about sodiu
 
 * no immediate / "supper Buddha" mental / cognitive benefits.  However, closing in on 60 days, in spite of work insecurity and the COVID-19 crisis, I have to say overall mood is possibly the best it's been in the last 5 years.  Similar to the effect I got when using a full spectrum CBD oil (Receptra Naturals Recovery formula), not manic or elevated in energy, just a little more levity in my overall mindset and mood.
   *  not coincidentally, this made me more aware if increased irritability (no noticeable increase in anxiety) with the large caffeine doses (+600mg).
+* 4/20/20 - 66 days into my carnivore journey I started, and a week into my "mega study" on performance and recovery, I started the [Carnivore 75 Hard]([https://www.google.com/search?q=carnivore75hard&source=lmns&rlz=1C1GCEA_enUS893US893&hl=en&ved=2ahUKEwiqu53hpPboAhUQQFMKHY_WB9wQ_AUoAHoECAEQAA&safe=active&ssui=on](https://www.google.com/search?q=carnivore75hard&source=lmns&rlz=1C1GCEA_enUS893US893&hl=en&ved=2ahUKEwiqu53hpPboAhUQQFMKHY_WB9wQ_AUoAHoECAEQAA&safe=active&ssui=on)) challenge.
+    * *Know Your Why - What Drives You to Change - Why do you choose meat-based nutrition:*  Pushing performance, always becoming harder to kill, simplicity / compliance, sustainability / longevity, weight management
+    * *In 1 year, 5 year, and 10 years, where do you see your life?  Where do you see yourself?  How do you see yourself?  Visualize you and your life:*  1 year - compete in BJJ again, revive dating life; 5 years - earn black belt, establish long term relationship, Know Fear certification; 10 years - children?  combat sports / k9 business?
+    * *If this, then that - backup plan for emotional and unexpected stressors:*  sugar (eat something savory / fat / salt), alcohol (bubbly water), caffeine (nap, sunshine, walk), stress (sunshine, walk, phone-a-friend), anger / frustration (boxing, phone-a-friend)
+    * *What would you do if you you only had 15 minutes of free time?*  call / text a friend just to chat
 
 ---
 
@@ -125,4 +153,8 @@ I have briefly looked at electrolytes overall, but have been curious about sodiu
     * Spring water for trace minerals, 2 cups per day in addition to copious amounts of tap water
 * [Fundamental Health Podcast](https://castbox.fm/channel/Fundamental-Health-with-Paul-Saladino%2C-MD-id2108592?country=us&nojump=1)
 * Statistics were calculated with [R](https://www.r-project.org/) on Linux.
+* Recovery Measures:
+    * [Athletic Wellness Questionnaire]([https://1xw7c62t8pgj1bq3qetvvsg1-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Wellness-Questionaire.jpg](https://1xw7c62t8pgj1bq3qetvvsg1-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Wellness-Questionaire.jpg)) 
+    * Resting Heart Rate ([r]([https://www.ncbi.nlm.nih.gov/pubmed/11219498](https://www.ncbi.nlm.nih.gov/pubmed/11219498)))
 * Rather than discard egg whites or reduce the number of eggs consumed, I feed them to my dog.  As an aside, he gets the leftover bones that I don't eat after making broth as well.  He's a fan of my carnivore adaptation :D and I'm a fan of feeding pets (at least partially) raw.
+
