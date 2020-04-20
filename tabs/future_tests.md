@@ -1,9 +1,17 @@
-﻿### Future Tests:
+---
+title: Future Tests
+
+# All the Tags of posts.
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT License
+---
 
 **Queue / Pending Follow Up:**
 
 * 90 day blood panel (~5/14/20)
-* 75 Hard challenge (~7/4/20)
+* [75 Hard challenge](https://nutritionwithjudy.com/carnivore75hard/) (~7/4/20)
 * Caffeine and Triglycerides
 * Blood Pressure and Sodium:Potassium Ratio (f/u)
 

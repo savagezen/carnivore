@@ -14,6 +14,32 @@
 #  path: tabs
 #  url: categories
 -
+  name: "About"
+  icon: "fas fa-info"
+  path: tabs
+  url: about
+-
+  name: "Data"
+  icon: "fas fa-data"
+  path: tabs
+  url:  data
+-
+  name: "Future Tests"
+  icon: "fas fa-future"
+  path: tabs
+  url: future_tests
+-
+  name: "Contribute!"
+  subfolderitems:
+    - page: Thing 1
+    - url: /thing1.html
+    - page: Thing 2
+    - url: /thing2.html
+    - page: Thing 3
+    - url: /thing3.html
+  icon: "contribute"
+  path: tabs
+-
   name: "Tags"
   icon: "fas fa-tags"
   path: tabs
@@ -23,8 +49,3 @@
 #  path: tabs
 #  url: archives
 #o  icon: "fas fa-archive"
--
-  name: "About"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
