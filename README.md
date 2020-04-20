@@ -1,4 +1,6 @@
-#### Carnivore Diet Statistics
+#### A Statistical Analysis of My Carnivore Journey
+
+*<3 Carnivore since 2/14/20 <3*
 
 ---
 
