@@ -1,7 +1,7 @@
 ---
 title: "Carnivore Diet:  75 Hard Challenge"
 author: Austin
-date: 2020-04-21
+date: 2020-04-21 10:02
 tags: [carnivore, carnivore diet, carnivore75hard, challenge, stoicism, carnivore aurelius]
 ---
 
