@@ -37,6 +37,8 @@
     * fasted time : strength output
 * Recovery (correlation and regression):
     * Sleep : Blood Sugar
+    * Sleep : AWQ
+    * Sleep : RHR
     * % rest days : AWQ
     * cold time : AWQ
     * training load : AWQ
@@ -81,26 +83,23 @@
 **Recovery - Cold Showers, Adaptation , Sleep, and Testosterone Variables:**
 
 * Tentative Research - Cold Showers: ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/), [r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5745760/))
-  * cold w/in 1 hour:  you'll feel better but perform worse (duh!)
-  * cold and cold+active w/in 24 and 48 hours:  less sore, but no significant change in performance
-  * RHR may stay lower, longer when cold is followed by exercise
-  * track training hours, RHR, soreness, fatigue
-  * may take up to 6 - 12 weeks for fulll effect
-  * randomize cold time to control for adaptation (0-5)
-
+    * cold w/in 1 hour:  you'll feel better but perform worse (duh!)
+    * cold and cold+active w/in 24 and 48 hours:  less sore, but no significant change in performance
+    * RHR may stay lower, longer when cold is followed by exercise
+    * track training hours, RHR, soreness, fatigue
+    * may take up to 6 - 12 weeks for fulll effect
+    * randomize cold time to control for adaptation (0-5)
 * Tentative Research - Sleep:
-  * Insomnia increases:  blood glucose, blood pressure, and waist circumference ([r](https://www.ncbi.nlm.nih.gov/pubmed/31404954))
-  * Does blood sugar slow recovery?
-  * increased blood sugar > increased inflammation > IGF-1 + host of other problems (above) ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820068/))
-  * low IGF-1 plus chronic inflammation = major destruction to body (ref. above)
-
-   * Magnesium - "Interestingly, magnesium has been shown to exert, as IGF-1 does, beneficial independent actions on muscle function and could play a role on physical performance in the elderly. This hypothesis is consistent with clinical and epidemiologic data supporting the importance of the magnesium ion as a determinant of muscle performance in young subjects." (ref. above)
-   * Selenium - "There is increasing evidence that selenium could influence skeletal muscle function even if its role in maintaining functional muscle efficiency is still unclear." (ref. above); Selenium is also related to production of thyroid hormone T3.
-   * Zinc - "Zinc is involved in growth, protein and DNA synthesis, neuro-sensory functions, cell-mediated immunity, thyroid function, and bone metabolism"... zinc seems also to be involved in nutritional regulation of IGF-1 bioactivity. In cultured bone cells, some studies suggest that zinc potentiates the action of IGF-1 and increases endogenous IGF-1 synthesis." (ref. above)
-
+    * Insomnia increases:  blood glucose, blood pressure, and waist circumference ([r](https://www.ncbi.nlm.nih.gov/pubmed/31404954))
+      * Does blood sugar slow recovery?
+    * increased blood sugar > increased inflammation > IGF-1 + host of other problems (above) ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820068/))
+    * low IGF-1 plus chronic inflammation = major destruction to body (ref. above)
+    * Magnesium - "Interestingly, magnesium has been shown to exert, as IGF-1 does, beneficial independent actions on muscle function and could play a role on physical performance in the elderly. This hypothesis is consistent with clinical and epidemiologic data supporting the importance of the magnesium ion as a determinant of muscle performance in young subjects." (ref. above)
+    * Selenium - "There is increasing evidence that selenium could influence skeletal muscle function even if its role in maintaining functional muscle efficiency is still unclear." (ref. above); Selenium is also related to production of thyroid hormone T3.
+    * Zinc - "Zinc is involved in growth, protein and DNA synthesis, neuro-sensory functions, cell-mediated immunity, thyroid function, and bone metabolism"... zinc seems also to be involved in nutritional regulation of IGF-1 bioactivity. In cultured bone cells, some studies suggest that zinc potentiates the action of IGF-1 and increases endogenous IGF-1 synthesis." (ref. above)
 * Tentative Research - Testosterone:
     * Tim Ferris (4HB, p.258):  2 x 10 min cold shower / day; 6,000 - 10,000 IU / day sunlight.
-    * Cold showers won't do anything for testosterone that exercise won't ([r](https://www.healthline.com/health/cold-shower-testosterone#summary)), but may still benefit recovery (pending current results).
+    * Cold showers won't do anything for testosterone that exercise won't ([r](https://www.healthline.com/health/cold-shower-testosterone#summary)), but impacts recovery by increasing IGF-1, though it's contested whether the circulating volume increases or just the concentration ([r](https://www.ncbi.nlm.nih.gov/pubmed/24005315),[r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5490602/)).
     * Vitamin D may still increase testosterone ([r](https://www.ncbi.nlm.nih.gov/pubmed/21154195)).  You get 10,000 - 20,000 IU / 30 minutes ([r]([https://www.healthline.com/nutrition/vitamin-d-from-sun#time-of-day](https://www.healthline.com/nutrition/vitamin-d-from-sun#time-of-day))).
 
 ---
@@ -115,6 +114,16 @@
   * I know ketones are good, just not convinced that more is better, whcih is why I'm focusing in glucose / insulin ([r](https://ketodietapp.com/Blog/lchf/the-ketone-craze-who-really-benefits-from-high-ketone-levels),[r](https://www.mayoclinic.org/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631)).  Recommended ranges of ketones are from 0.5 - 3 mmol/L (9 - 54 mg/dL), though ancestrally levels were probably between 0.1 and 1 ([r](https://castbox.fm/episode/How-Broccoli-is-Destroying-Your-Thyroid!-With-Elle-Russ-id2108592-id236477377?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=How%20Broccoli%20is%20Destroying%20Your%20Thyroid!%20With%20Elle%20Russ-CastBox_FM)).  Usually I am in the 5 - 15 mg/dL range (urine).  It's pretty easy to pee on a stick though, so it's worth keeping track of.
   * blood glucose corresponding to the above urine ketones would be 40 - 75 mg/dL (fasted); less than 40 or over 200 being dangerous, but over 75 (for sure over 100), being non-conducive to ketosis ([r](https://www.thebonesandco.com/blog/ketosis-versus-ketoacidosis-dogs)).
    * Ketones alone may not be good indicator (e.g. less excreted in urine if they're getting used in the blood)([r](https://castbox.fm/episode/Supersoldiers-and-enhanced-cognitive-function-with-ketones!-A-conversation-with-Dominic-D%E2%80%99Agostino%2C-PhD-id2108592-id171881127?country=us)).
+   * blood sugar may also go up when fasting due to glucose being squeezed out of the liver (where it's been stored)([r](https://www.dietdoctor.com/why-is-blood-glucose-elevated-when-fasting)).  I'd expect this to normalize or decrease over time ([r](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)) especially if gluconeogenesis isn't an issue.  That is if, even on a carnivore diet, you manipulate your fat:protein ratio to upwards of 2:1 (by calorie).
+
+**Intermitent Fasting:**
+
+* typical protocols ([r](https://perfectketo.com/types-intermittent-fasting/))
+    * 14 - 18 horus
+    * test: 16/8 window
+    * test: 5:2 days, 5 days regular 3 meals, 2 days single meal
+* I'm not particularly interested in IF, though it's been frequently requested that I look at it next.  There are some benefits to IF (increased autophagy, decreased insulin sensitivity, and decreased inflamation; ([r](https://perfectketo.com/intermittent-fasting-and-keto/))).  As for insulin resistance and inflamation, see above regarding blood sugar and ketones.  At my current training rate, certainly before the COVID-19 scare, and thereby gross recovery need, I wasn't concerned with autophagy either.  Nor am I convinced that IF would give a benefit greater than the protocols I've already mentioned.  IF can also aid in weight loss, though I suspect this is largely due to portion control.  I'm very happy with my current weight and body composition (160 - 165 lbs, < 10% body fat)
+* There are also potential drawbacks of which specifcally have to do with strength gains related to IGF1 ([r](https://perfectketo.com/intermittent-fasting-and-keto/)).  In short, I'm happy with my weight / composition and want to get stronger more than I want to get lighter / leaner.
 
 ---
 
@@ -128,17 +137,12 @@ Recently too, I've taken an interest in cardiovascular load (mean arterial press
 
 I have briefly looked at electrolytes overall, but have been curious about sodium : potassium ratio as well; something I can easily incorporate into the follow up study -- as well as total electrolyte balance.
 
+Additional Research:
+  * IF has been shown to lower blood pressure in short term trials (< 12 weeks), but the confidence interval (*p*) become rather abysmal after that ([r](https://www.researchgate.net/publication/331929592_Intermittent_Fasting_in_Cardiovascular_Disorders-An_Overview)[r](https://www.sciencedirect.com/science/article/abs/pii/S1933171117304126)).
+
 ---
 
 **Anecdotes / Observations:**
-
-* no immediate / "supper Buddha" mental / cognitive benefits.  However, closing in on 60 days, in spite of work insecurity and the COVID-19 crisis, I have to say overall mood is possibly the best it's been in the last 5 years.  Similar to the effect I got when using a full spectrum CBD oil (Receptra Naturals Recovery formula), not manic or elevated in energy, just a little more levity in my overall mindset and mood.
-  *  not coincidentally, this made me more aware if increased irritability (no noticeable increase in anxiety) with the large caffeine doses (+600mg).
-* 4/20/20 - 66 days into my carnivore journey I started, and a week into my "mega study" on performance and recovery, I started the [Carnivore 75 Hard]([https://www.google.com/search?q=carnivore75hard&source=lmns&rlz=1C1GCEA_enUS893US893&hl=en&ved=2ahUKEwiqu53hpPboAhUQQFMKHY_WB9wQ_AUoAHoECAEQAA&safe=active&ssui=on](https://www.google.com/search?q=carnivore75hard&source=lmns&rlz=1C1GCEA_enUS893US893&hl=en&ved=2ahUKEwiqu53hpPboAhUQQFMKHY_WB9wQ_AUoAHoECAEQAA&safe=active&ssui=on)) challenge.
-    * *Know Your Why - What Drives You to Change - Why do you choose meat-based nutrition:*  Pushing performance, always becoming harder to kill, simplicity / compliance, sustainability / longevity, weight management
-    * *In 1 year, 5 year, and 10 years, where do you see your life?  Where do you see yourself?  How do you see yourself?  Visualize you and your life:*  1 year - compete in BJJ again, revive dating life; 5 years - earn black belt, establish long term relationship, Know Fear certification; 10 years - children?  combat sports / k9 business?
-    * *If this, then that - backup plan for emotional and unexpected stressors:*  sugar (eat something savory / fat / salt), alcohol (bubbly water), caffeine (nap, sunshine, walk), stress (sunshine, walk, phone-a-friend), anger / frustration (boxing, phone-a-friend)
-    * *What would you do if you you only had 15 minutes of free time?*  call / text a friend just to chat
 
 ---
 

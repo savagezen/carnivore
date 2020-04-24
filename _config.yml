@@ -19,7 +19,7 @@ description: >-                        # used by seo meta and the atom feed
 
 # Replace with the website url, e.g. 'https://username.github.io'
 
-url: 'https://savagezen.github.io'
+url: 'http://savagezen.github.io'
 #url: 'protocol://domain'
 
 author: Austin Haedicke                  # change to your full name
@@ -61,7 +61,7 @@ timezone: America/New_York
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: ''
+  id: 'UA-63934221-6'
   # The Google Analytics pageviews switch.
 
   pv:

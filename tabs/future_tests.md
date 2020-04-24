@@ -27,17 +27,6 @@ title: Future Tests
 
 ---
 
-**Intermitent Fasting:**
-
-* typical protocols ([r](https://perfectketo.com/types-intermittent-fasting/))
-    * 14 - 18 horus
-    * test: 16/8 window
-    * test: 5:2 days, 5 days regular 3 meals, 2 days single meal
-* I'm not particularly interested in IF, though it's been frequently requested that I look at it next.  There are some benefits to IF (increased autophagy, decreased insulin sensitivity, and decreased inflamation; ([r](https://perfectketo.com/intermittent-fasting-and-keto/))).  As for insulin resistance and inflamation, see above regarding blood sugar and ketones.  At my current training rate, certainly before the COVID-19 scare, and thereby gross recovery need, I wasn't concerned with autophagy either.  Nor am I convinced that IF would give a benefit greater than the protocols I've already mentioned.  IF can also aid in weight loss, though I suspect this is largely due to portion control.  I'm very happy with my current weight and body composition (160 - 165 lbs, < 10% body fat)
-* There are also potential drawbacks of which specifcally have to do with strength gains related to IGF1 ([r](https://perfectketo.com/intermittent-fasting-and-keto/)).  In short, I'm happy with my weight / composition and want to get stronger more than I want to get lighter / leaner.
-
----
-
 **Super Stupid Simple Cardio:**
 
 * 3 x 10 min walk / day (after meals)([r](https://castbox.fm/episode/How-to-become-as-strong-as-possible-with-Stan-Efferding-id2108592-id207121110?country=us))
@@ -49,4 +38,20 @@ title: Future Tests
 **Fat Cycling / Competition Prep:**
 
 * Kevin Stock recommends cutting back fat at least one meal / day (up to all meals / day) for two days, then eating one "regular" day ([r](https://www.kevinstock.io/health/fat-loss-and-the-carnivore-diet/)).
+
+---
+
+**Miscellaneous Notes:**
+
+* CVS Cholesterol Screening [$60](https://www.cvs.com/minuteclinic/services/price-lists)
+* CVS Comprehensive Screening [$60]()
+* Home Testosterone Test [$60](https://www.cvs.com/shop/everlywell-testosterone-test-prodid-1860032)
+    * Insulin sensitivity correlates positively with testosterone (Fundamental Health - Blue Zones are a myth)
+    * if shbg / free is high, may be insulin sensitive
+    * free and total
+    * if total is low, there's a problem
+    * urine tests may have validity issues due to metabolism of testosterone in blood
+    * normal range: total 617, free 12.3, shbg 35.5, [r](https://alpha-med.net/blog/f/what-are-normal-testosterone-levels)
+* Home Inflamation Test [$100]((https://www.cvs.com/shop/everlywell-vitamin-d-and-inflammation-test-prodid-1860063))
+* Home Metabolic Panel [$40](https://www.healthtestingcenters.com/test/basic-metabolic-panel-bmp/)
 
