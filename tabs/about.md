@@ -8,8 +8,6 @@ title: About
 # MIT License
 ---
 
-#### A Statistical Analysis of My Carnivore Journey
-
 *<3 Carnivore since 2/14/20 <3*
 
 ---
@@ -18,11 +16,8 @@ title: About
 
 * [30 Day Review](https://github.com/savagezen/carnivore/blob/master/Review-30-Days.md):  Includes review of biomentrics (weight, MAP, RHR, ketones), nutrient density and cost analysis, electrolyte and recovery analysis, and Omega-6 and Omega-3 ratios.
 * [45 Day Review](https://github.com/savagezen/carnivore/blob/master/Review-45-Days.md): Caffeine (dose and time of ingestion effects on sleep), relationship between cardiovascular load and electrolytes, relationship between cardiovascular load and fatty acids.
-* [Future Tests](https://github.com/savagezen/carnivore/blob/master/future_tests.md):
-  * Cryotherapy and Recovery - *pending, est. May 7-14*
-  * Caffeine and Performance - *pending, est. May 7-14*
-  * Protein to Fat Ration and Blood Glucose - *pending, est. May 7-14*
-* 90 Day Review: Including Blood Work Update - *pending, est. May 14-21*
+* *[PENDING]* 60 Day Review: Including correlations and regressions regarding sleep, recovery, caffeine, performance, ketones, blood sugar, fasting, and high fat vs. high protein. - *est. May 7-14*
+* *[PENDING]* 90 Day Review: Including Blood Work Update - *est. May 14-21*
 
 ---
 

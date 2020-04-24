@@ -24,11 +24,6 @@
   path: tabs
   url:  data
 -
-  name: "Future Tests"
-  icon: "fas fa-future"
-  path: tabs
-  url: future_tests
--
   name: "Contribute!"
   icon: "contribute"
   path: tabs
