@@ -7,8 +7,13 @@ title: Future Tests
 
 * 90 day blood panel (~5/14/20)
 * [75 Hard challenge](https://nutritionwithjudy.com/carnivore75hard/) (~7/4/20)
-* Caffeine and Triglycerides
+* sleep quality and measures
+* Caffeine and Triglycerides (pending caffeine / performance results)
 * Blood Pressure and Sodium:Potassium Ratio (f/u)
+
+**Consideration:**
+
+* Water Filter / Testosterone?
 
 ---
 
@@ -38,6 +43,35 @@ title: Future Tests
 **Fat Cycling / Competition Prep:**
 
 * Kevin Stock recommends cutting back fat at least one meal / day (up to all meals / day) for two days, then eating one "regular" day ([r](https://www.kevinstock.io/health/fat-loss-and-the-carnivore-diet/)).
+
+---
+
+**Sleep Research:** 
+
+Training hard = easy
+Recover hard = discipline
+The better / faster you recover, the harder / more you can train.  You're not getting the most out of your next workout or training session if you haven't recovered from the last one -- think about digging another hole before the last one's healed.. that's the path to injury!
+
+Best / Cheapest Recovery =? sleep
+* we all have to sleep anyway
+* obviously we recover when we sleep
+* lack of sleep has lots of detriments: increased risk of heart disease, hormone imbalance, mood dysregulation, etc... ([r](https://www.hopkinsmedicine.org/health/wellness-and-prevention/the-effects-of-sleep-deprivation).[r](https://www.healthline.com/health/sleep-deprivation/effects-on-body#1))
+* what improves sleep? ([r](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips)[r]((https://www.sleepfoundation.org/articles/six-tips-design-ideal-bedroom-sleep)))
+    * consistent bed / wake time -- costs nothing
+    * avoid screens (meditate / read)  -- costs nothing
+    * avoid coffee / nicotine / other drugs (at least 8 hours) before bed -- costs nothing, actually saves money
+    * exercise, nap, and eat (your biggest meal) earlier in the day -- costs nothing but planning
+    * drink only enough to not be thirsty when waking (try to avoid trips to the bathroom at night)
+    * the darker, colder, and quieter the room, the better -- takes some investment
+* Consulting with a sleep lab, phone apps are only about 60% accurate, being based on heart rate and movement (e.g. if your heart rate is low and you're not moving the apps think you're asleep even if you're not).
+* In my experience a simple 1-5 rating scale seems just as accurate
+
+* Saunas?
+   *  probably sweating PLENTY through BJJ
+
+* Massage?
+  *  master sleep first, maybe 75 hard v2
+
 
 ---
 
